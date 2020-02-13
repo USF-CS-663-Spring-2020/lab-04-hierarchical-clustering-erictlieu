@@ -1,4 +1,6 @@
 # CS663 Lab 04 - Hierarchical
+**Name**: Eric Lieu 
+**USF email address**: elieu@dons.usfca.edu 
 
 Datasets for this lab are:
 
